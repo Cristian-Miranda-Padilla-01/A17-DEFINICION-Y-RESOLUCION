@@ -4,7 +4,7 @@
 %Specialty             :Ingeniería en Sistemas Computacionales 
 %Grupo :3101
 % Title                :Resolución de desigualdades
-% Description          :Script para resolver un problema sobre la cantidad minima de Material para hacer una lata cilindrica usada para envasar aceite
+% Description          :Script para resolver un problema sobre la cantidad minima de material para hacer una lata cilindrica usada para envasar aceite
 % Author               :Cristan Miranda Padilla ,  Ambar Itzel Cruz Zarza, Bryan Abner Garcia Cruz 
 % Date                 :202123107    , 202123174
 % Version              :1
