@@ -1,18 +1,20 @@
 % Octave Script
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
-%Specialty             :Ingeniería en Sistemas Computacionales 
-% Title                :Resolución de desigualdades
-% Description          :Script para resolver un problema sobre la cantidad minima de Material para hacer una lata cilindrica usada para envasa aceite
-% Author               :Cristan Miranda Padilla
-% Date                 :202123107    
+% Materia : CÃ¡lculo Diferencial
+%Specialty             :IngenierÃ­a en Sistemas Computacionales 
+%Grupo :3101
+% Title                :ResoluciÃ³n de desigualdades
+% Description          :Script para resolver un problema sobre la cantidad minima de Material para hacer una lata cilindrica usada para envasar aceite
+% Author               :Cristan Miranda Padilla ,  Ambar Itzel Cruz Zarza 
+% Date                 :202123107    , 202123174
 % Version              :1
 % Usage                :octave>cd/path/
-%		                   :octave>ResolocionDesigualdades
+%		                   :octave>ResolucionDesigualdades 
 % Notes                :Requiere aplicacion octave, usar la linea de comandos
 %                      :https://octaveintro.readthedocs.io/en/latest/index.html
 %limpiar variables
 clear all
-%Uso mínimo de material para una lata cilindrica de aceite
+%Uso mÃ­nimo de material para una lata cilindrica de aceite
 disp ('Material minimo para hacer una  lata cilindrica para envasar aceite.');
 disp ('');
 %Rango de 0...1 en i = 0.1
