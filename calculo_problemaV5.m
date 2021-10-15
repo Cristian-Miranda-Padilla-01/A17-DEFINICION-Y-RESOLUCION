@@ -6,7 +6,7 @@
 % Title                :Resolución de desigualdades
 % Description          :Script para resolver un problema sobre la cantidad minima de material para hacer una lata cilindrica usada para envasar aceite
 % Author               :Cristan Miranda Padilla ,  Ambar Itzel Cruz Zarza, Bryan Abner Garcia Cruz 
-% Date                 :202123107    , 202123174
+% Date                 :202123107    , 202123174    ,  202123180
 % Version              :1
 % Usage                :octave>cd/path/
 %		                   :octave>ResolucionDesigualdades 
