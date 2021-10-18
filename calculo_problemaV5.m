@@ -26,15 +26,15 @@ ar =@(r) (2*(pi)) * (r.^2) + (2./(r))
 
 %funcion a graficar
 y = (2 * (pi))*(r.^2)+(2./(r))
-
+resr  =fminbnd(ar,0,1);
 %dibujar r, y
 plot(r,y);
 
 grid on;
 
 %Titulo
-title(['Material minimo r = ' num2str(r)]);
+title(['Material minimo r = ' num2str(resr)]);
 %Etiqueta para x
 xlabel(['Min r = ' num2str(r)]);
 %Etiqueta para y
-ylabel(['Min y = ' num2str(ar(r))] );
+ylabel(['Min y = ' num2str(ar(resr))] );
