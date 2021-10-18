@@ -13,7 +13,7 @@
 % Notes                :Requiere aplicacion octave, usar la linea de comandos
 %                      :https://octaveintro.readthedocs.io/en/latest/index.html
 %limpiar variables
-clear all
+clc
 %Uso mínimo de material para una lata cilindrica de aceite
 disp ('Material minimo para hacer una  lata cilindrica para envasar aceite.');
 disp ('');
