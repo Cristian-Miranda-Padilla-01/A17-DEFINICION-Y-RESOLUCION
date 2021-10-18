@@ -35,6 +35,6 @@ grid on;
 %Titulo
 title(['Material minimo r = ' num2str(resr)]);
 %Etiqueta para x
-xlabel(['Min r = ' num2str(r)]);
+xlabel(['Min r = ' num2str(reser)]);
 %Etiqueta para y
 ylabel(['Min y = ' num2str(ar(resr))] );
